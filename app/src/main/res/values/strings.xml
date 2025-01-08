@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DemoKevin</string>
+    <string name="kk">Enter First Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_to_your_account">Sign in to your \nAccount</string>
+    <string name="enter_oyur_phone_number_to_log_in">Enter oyur Phone number to log in</string>
+    <string name="_91_phone_number">+91 | Phone Number</string>
+    <string name="log_in">Log In</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="enter_your_phone_no_to_login_in">Enter Your Phone no to Login In</string>
+    <string name="back">Back</string>
+    <string name="login">Login</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_the_code_from_the_sms_we_sent_nto_91_0177428087">Enter the code from the SMS we sent \nto +91 0177428087</string>
+    <string name="_02_32">02:32</string>
+    <string name="resend">RESEND</string>
+    <string name="i_didn_t_receive_any_code">I didn\'t receive any code.</string>
+    <string name="continue">CONTINUE</string>
+    <string name="setting">Setting</string>
+    <string name="menu">menu</string>
+    <string name="profile">Profile</string>
+    <string name="rohit_sharma">Rohit Sharma</string>
+    <string name="rohitsharma_gmail_com">rohitsharma@gmail.com</string>
+    <string name="what_s_your_first_name">What\'s your first name?</string>
+    <string name="and_your_last_name">And your last name?</string>
+    <string name="email_id">Email ID</string>
+    <string name="select_your_gender">Select Your gender</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="notification">Notification</string>
+    <string name="logout">Logout</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="legal_and_policies">Legal and Policies</string>
+    <string name="general">General</string>
+    <string name="security">Security</string>
+    <string name="language">Language</string>
+</resources>
